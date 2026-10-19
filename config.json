@@ -19,18 +19,18 @@
   },
 
   "adminBot": [
-    "100088160386843",
-    "61574231934756",
-    "100084104451188"
+    "61592778947207",
+    "61592853883908",
+    "61592853883908"
   ],
 
     "devUsers": [
-    "61581351693349",
-    "61592661868438"
+    "61592778947207",
+    "61592853883908"
   ],
 
   "premiumUsers": [
-    "61581351693349"
+    "61592853883908"
   ],
 
   "whiteListMode": {
@@ -45,7 +45,7 @@
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot"
   },
 
-  "nickNameBot": "❀❀❀☞ 𝐓𝐡𝐞 𝐑𝐨𝐛𝐨𝐭 𝐎𝐟 𝐓𝐞𝐬𝐬𝐚 𝐁𝐛𝐳 ☜❀❀❀",
+  "nickNameBot": "Zz",
   "prefix": ".",
 
   "database": {
